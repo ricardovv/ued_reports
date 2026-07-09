@@ -2,85 +2,88 @@
 to be confirmed.  
 
 
-
-**John - July 8 2026, 16:00 - inperson**.  
+</br>  
+**John – July 15, 2026, 16:00 (to be confirmed) – in-person**.  
 John's office – IF 4.32.  
-+Comments on the summer schools: Comp Interact, Nime, DHRSE.  
-+Regarding the last meeting (planning, data, etc.): show notes and tasks, see if ok. 
-+Thesis progress: classification, resize, visualizations (exploratory)   
-+Prototyping visualizations: explorer.  
-+Index: Initial thesis table of contents: to prepare introduction.  
-+Research Questions:  
+–Index in detail for Introduction.   
+–Questions iteration 2.  
+–Abstract.   
+–Preparation for 10 august meeting.   
+
+
+</br>  
+**John – July 8, 2026, 16:00 – in-person**.  
+John's office – IF 4.32.   
++Comments on the summer schools: Comp Interact, Nime, DHRSE.   
++Regarding the last meeting (planning, data, etc.): show notes and tasks, see if ok.   
++Thesis progress: classification, resize, visualizations (exploratory).  
++Prototyping visualizations: explorer.   
++Index: Initial thesis table of contents: to prepare introduction.   
++Research Questions:   
 +Abstract.   
-+Plan: how many detail? goal...
- 
-–Research: survey/workshop in preparation, thinking goal/dates (ethic authorization).  
-–Report Github: reports, texts, index, plan, etc. (improve + gdrive)
- 
-Questions:  
-–Extending the time to the thesis in Chile. Do I need to do so here, too?  
-–Ask for a medical document about Alicia (impact on my time and mood)  
-–Next meeting next week...? (planning for the August meeting).  
-–100 hudred SBeer, Manchester. 17th–19th September: present some progress.  
++Plan: how much detail? goal...   
+
+–Research: survey/workshop in preparation, thinking goal/dates (ethics authorization).   
+–Report Github: reports, texts, index, plan, etc. (improve + GDrive).  
+
+Questions:   
+–Extending the time for the thesis in Chile. Do I need to do so here, too?   
+–Ask for a medical document about Alicia (impact on my time and mood).  
+–Next meeting next week...? (planning for the August meeting).   
+–100 Years of Stafford Beer, Manchester. 17th–19th September: present some progress.   
 
 = = = = = Meeting Notes = = = = = = = = = =   
-Working on main question based on th eprevious but focused on DH & Vis challenges.
-Secondary quetions related to each challenge: KG creation, Chat responses, Vis creation.   
-Develop prototypes to test each challenge.   
+–Working on main question based on the previous but focused on DH & Vis challenges.   
+–Secondary questions related to each challenge: KG creation, Chat responses, Vis creation.   
+–Develop prototypes to test each challenge.   
 
 
-
-**John & Melissa - june 24 2026, 16:00 - online**.  
-–Comments to the previous text.  
+</br>  
+**John & Melissa – June 24, 2026, 16:00 – online.**   
+–Comments to the previous text.   
 –Two texts reviewed:   
-RV_a_About_SBArchive_24jun_2026.pdf   RV_a_About_SBeer_and_Cybersyn_24jun_2026.pdf   
-–Defining next texts: Proposingan introduction, this help to articulate the project.     
-–Steps, july extracting infomation, start KG prototype.  
-–Intro to initial paper?   
-–Define focus and questions.    
-–Others.  
+RV_a_About_SBArchive_24jun_2026.pdf.  
+RV_a_About_SBeer_and_Cybersyn_24jun_2026.pdf.  
+–Defining next texts: Proposing an introduction, this helps to articulate the project.   
+–Steps, July: extracting information, start KG prototype.   
+–Intro to initial paper?
+–Define focus and questions.
+–Others.
 
 NEXT MEETING:   
-–Discuss workshop + iterwiews w UTA to get more info on users.  
-–I will Apply for:   
-Knowledge Graphs and Hypertext, 12–14 Sept (London).   
-100 hudred SBeer. 17–19 Sept (Manchester).    
-Transcribus Scholaships: https://www.transkribus.org/scholarship (done!)   
-
+–Discuss workshop + interviews with UTA to get more info on users.   
+–I will apply for:   
+Knowledge Graphs and Hypertext, 12–14 Sept (London, selected!).   
+100 Years of Stafford Beer. 17–19 Sept (Manchester).   
+Transkribus Scholarships: [https://www.transkribus.org/scholarship](https://www.transkribus.org/scholarship) (done!)  
 
 = = = = = Meeting Notes = = = = = = = = = =   
-–Research on case study. Writing why this study case, relevande. See other ones.  
-–Info extraction on archival material, value of informatin extraction. Methods of case study. why is appropiate.  
+–Research on case study. Writing why this case study, relevance. See other ones.   
+–Info extraction on archival material, value of information extraction. Methods of case study, why is appropriate.   
 –Problem, methods, gaps on machine processing text.   
-–Write like a research more than a report, create arguments.  
-–Key question: visualiation of cutural archive. Certain particular types of material.  
-–Develop a high level question, grouded in more specific issues.   
-–How might LLMs and GenAI can be incorporated into vis workflow-pipeline for cultural archives? sub questions of the two parts or challenges.  
-–Thinking in for who is, will help to thoink in the question. Why I am doing this?: make a choice bnased on interest on visualization.  
-–For workshop & surveys, considers ethic approval by informatics, takes little time (3 weeks).   
-–Reports of the events related to the project?  
-–Research workshop and interviews. Why is importan for reseach questios.   
-–Methodology not yet, first approach to the rasearch.    
-–Working the document structure w John.  
-–Check Thesis from Edinburgh from design informatics (research explorer) to see structure.  
-–Review Provenance Visualizaiotn with the idea of study case (check Tomas Thesis).  Rethinking historical university records : provenance in visualization and digital humanities research
-https://research-repository.st-andrews.ac.uk/handle/10023/29239
+–Write like a research more than a report, create arguments.   
+–Key question: visualization of cultural archive. Certain particular types of material.   
+–Develop a high level question, grounded in more specific issues.   
+–How might LLMs and GenAI be incorporated into a vis workflow-pipeline for cultural archives? Sub-questions of the two parts or challenges.   
+–Thinking about who it is for will help to think about the question. Why I am doing this?: make a choice based on interest in visualization.   
+–For workshop & surveys, consider ethics approval by Informatics, takes little time (3 weeks).   
+–Reports of the events related to the project?   
+–Research workshop and interviews. Why is important for research questions.   
+–Methodology not yet, first approach to the research.   
+–Working the document structure with John.   
+–Check Thesis from Edinburgh from Design Informatics (research explorer) to see structure.   
+–Review Provenance Visualization with the idea of case study (check Tomas's Thesis). Rethinking historical university records : provenance in visualization and digital humanities research.   
+[https://research-repository.st-andrews.ac.uk/handle/10023/29239](https://research-repository.st-andrews.ac.uk/handle/10023/29239).  
 
-In August:  
-–All the documents transcribed, all data clear.  
-–A plan to work: 6 months to do all the things.  
-–See ethics (first see dates to the activities).  
-–Next meeting 10th August.  
-–Meeting with John before 16th August (is in leaving).  
-–Next text in word (no pdf). Implelent Google docs to share documents. 1 document w all the texts.  
+In August:   
+–All the documents transcribed, all data clear.   
+–A plan to work: 6 months to do all the things.   
+–See ethics (first see dates for the activities).   
+–Next meeting 10th August.   
+–Meeting with John before 16th August (he is leaving).   
+–Next text in Word (no PDF). Implement Google Docs to share documents. 1 document with all the texts.   
 
 
-Me inscribi al scholarshipt de transkribus el 25 junio 2026 con estos datos: 
-“From Document to Meaningful Exploration: Prototyping a Framework with Multimodal Cultural Documents for Creating AI-Assisted Exploratory Visualizations”
-The proposal seeks to understand the changes and potential in the data visualization process in the context of recent technological developments in Generative Artificial Intelligence, and Large Language Models. T o this end, the project aims to prototype a visualization that integrates these elements into the process. As a case study, we will work with documents from the Stafford Beer Archive related to Chile, authorized by Liverpool John Moores University (LJMU).
-Based on this experience, it is proposed a conceptual model or framework for working with multimodal cultural documents, oriented toward data visualization in the context of the humanities. The project articulates a series of methods, technologies, and concepts from various disciplinary domains stemming from the convergence of computing and the humanities, such as Digital Humanities and Cultural Analytics.
-With two main parts, the project begins with the Data to Analysis Phase, which will be carried out in Chile, encompassing data extraction and preprocessing. It continues with the Data to Visualization Phase, which will be carried out during the internship abroad. It focuses on the creation of the final database and the interface design for the final exploratory visualization.
-This investigation into the integrated model is relevant as a guide for the development of potential applications in the arts, culture, and humanities that work with data, such as human rights, book visualization, and forensic visualization, among others.
 
 
 
