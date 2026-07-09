@@ -19,6 +19,6 @@ Here I will be periodically leaving some reports and other elements related to m
 
 **Research questions evolution here >>>:** [02_th_questions_gaps.html](https://ricardovv.github.io/ued_reports/pages/02_th_questions_gaps.html)   
 
-**Content index here >>>:** [00_RV_indice.html](https://ricardovv.github.io/ued_reports/pages/02_th_questions_gaps.html)   
+**Content index here >>>:** [00_RV_indice.html](https://ricardovv.github.io/ued_reports/pages/00_RV_indice.html)   
 
 
