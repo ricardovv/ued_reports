@@ -53,7 +53,7 @@ RV_a_About_SBeer_and_Cybersyn_24jun_2026.pdf.  
 NEXT MEETING:   
 –Discuss workshop + interviews with UTA to get more info on users.   
 –I will apply for:   
-Knowledge Graphs and Hypertext, 12–14 Sept (London, selected!).   
+INTR/HT Summer School, 12–13 Sept (London, selected!).   
 100 Years of Stafford Beer. 17–19 Sept (Manchester).   
 Transkribus Scholarships: [https://www.transkribus.org/scholarship](https://www.transkribus.org/scholarship) (done!)  
 
