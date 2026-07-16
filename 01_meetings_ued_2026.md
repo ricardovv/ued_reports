@@ -3,12 +3,16 @@ to be confirmed.
 
 
 </br>  
-**John – July 15, 2026, 16:00 (to be confirmed) – in-person**.  
+**John – July 16, 2026, 15:00-15:30 (to be confirmed) – in-person**.   
 John's office – IF 4.32.  
-–Index in detail for Introduction.   
+–Tomas Vancisin meeting: great advice!
+–Transkribus answer: credits ok (tuestday). 
 –Questions iteration 2.  
-–Abstract.   
+–Abstract & tits.   
+–Index in detail for Introduction.   
 –Preparation for 10 august meeting.   
+–X– Paper for Knowledge Graphs and Hypertext - Interaction with Rich Knowledge Structures
+which idea is better? 
 
 
 </br>  
