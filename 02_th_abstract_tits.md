@@ -1,12 +1,36 @@
-# ABSTRACT & TITS 
+# QUESTIONS - ABSTRACT – TITS 
 
 **TIT ORIGINAL:**.  
 From Document to Meaningful Exploration: Prototyping a Framework with Multimodal Cultural Documents for Creating AI-Assisted Exploratory Visualizations”
 
-**TIT NEW:**.  
-–Cybersyn Boxes: Prototyping a Document Visualisation Assisted by IA. (6jun) 
-–Cybersyn Boxes: Prototyping Data Visualization to explore AI challenges and opportunities from a Interdisciplinary Perspective (DH?). (12 jun)
-–Cybersyn Boxes: Prototyping a Document Visualisation assisted by AI & KG. (10 jul)
+**TIT NEW (iter 1 - 8july)**.  
+–Cybersyn Boxes: Prototyping a Document Visualisation Assisted by IA. (6jun)    
+–Cybersyn Boxes: Prototyping Data Visualization to explore AI challenges and opportunities from a Interdisciplinary Perspective (DH?). (12 jun).  
+–Cybersyn Boxes: Prototyping a Document Visualisation assisted by AI & KG. (10 jul).  
+
+
+**QUESTIONS (iter 1 - 12july)**
+QO (Overall):   
+Q0A– How can humanistic and design principles be combined to build tools that genuinely fit humanities research?    
+Q0B– How does AI supported visualization develpment affect scholars' interpretation of cultural and historical documents?    
+Q0C– How can LLM-based query translation preserve humanities epistemologies instead of forcing interpretive questions into rigid, positivist computational forms?   
+Q0D –How visualizaition be designed to support exploration of complex relational, contextual, and narrative aspects of cultural heritage materials, moving beyond item-centric retrieval to support synthesis and interpretation?   
+
+Q1 (DDBB-KG):  
+Q1A– How can knowledge graph interfaces support relational and narrative exploration, not just item lookup?   
+Q1B– How should knowledge graph interfaces balance support for structured, goal-driven research with support for serendipitous discovery of unexpected connections in cultural heritage data?   
+
+Q2 (VIS):   
+Q2A –How can interfaces support both targeted search and open-ended, exploratory browsing?   
+Q2B –How can interfaces present AI outputs as suggestions, not definitive findings, so scholars keep interpretive control?   
+Q2C –How can generative AI visualizations show interpretive gaps and contested meanings instead of flattening them?   
+Q2D –How can LLM-generated visualizations help scholars notice unexpected connections, not just answer direct queries?   
+
+Q3 (Chat2Vis):   
+Q3A –How can conversational chat2viz tools be designed for humanities needs—like relationship discovery and narrative synthesis—instead of generic business-style interfaces?   
+Q3B –How can multi-turn conversational interfaces keep context and meaning consistent across a scholar's evolving questions?   
+Q3C –How can ontology and prompt design keep ambiguous humanistic concepts from being flattened into fixed categories?   
+Q3D –How can an LLM recognize when a query is interpretive rather than factual before translating it into a graph query?   
 
 
 
