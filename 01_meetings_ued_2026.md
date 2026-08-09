@@ -19,7 +19,7 @@ to be confirmed.
 **A– TASKS**  
 
 – Introduction (sent Monday the 3rd): I will integrate the texts following this review.  
-– CSV File Data w all integrated: requires iterations and cross-checking against Ground Truth.  
+– XML & TXT: CSV File Data all integrated (in progress): requires iterations and cross-checking against Ground Truth.  
 – Aug-Dec Plan: Focus on KG/VIS/LLM2Vis. Prepare processes for integration between January and April 2027.  
 – Ethics application submitted (correction on August 4th): response expected in 10 days.  
 
@@ -58,6 +58,8 @@ to be confirmed.
 – KG hypertext: preparing KG for visualisation?  
 – Project Three lines: Implementation / Thesis / Autoetnography.  
 
+</br>  
+
 **D– TO COMMENT**
 
 – Dr.'s document: A is better, but A needs continuous observation to change the m. Please note: I haven't come to Informatics, 3 weeks at home with my family.  
@@ -69,7 +71,7 @@ to be confirmed.
 
 **E– NEXT STEPS**
 
-- Resume literature review: strengthen DH, KG4Vis, LLM4Vis, Chat4Viz, HD data sections.
+– Resume literature review: strengthen DH, KG4Vis, LLM4Vis, Chat4Viz.
 - KG: implement entities and relationships, etc.
 - RAG local data (Qwen, Claude, etc.?).
 - LJMU SBArchive visit (Liverpol, September/October): questions around archive status, research interests, etc.
@@ -90,7 +92,8 @@ to be confirmed.
 - About Vikus project: [github.com/cpietsch/vikus-viewer](https://github.com/cpietsch/vikus-viewer)
 
 
-
+</br>  
+</br>  
   
 ## PAST.   
 
@@ -104,7 +107,7 @@ John's office – IF 4.32.
 –Abstract & tits.   
 –Index in detail for Introduction.   
 –Preparation for 10 august meeting.   
-–X– Paper for Knowledge Graphs and Hypertext - Interaction with Rich Knowledge Structures
+–Paper for Knowledge Graphs and Hypertext - Interaction with Rich Knowledge Structures
 which idea is better? 
 
 
