@@ -10,68 +10,68 @@ to be confirmed.
 
 </br>  
 ## CURRENT.   
-**Melissa & John – August 10, 2026, 12:00 – in-person**.   
-<img src="img/d_tesis_temas_venn.png" alt="thesis themes">
+**Melissa & John – August 10, 2026, 12:00 – in-person**  
+<img src="img/d_tesis_temas_venn.png" alt="thesis themes" width="70%" height="70%">  
 
-**A– TASKS**.  
-– Introduction (sent Monday the 3rd): I will integrate the texts following this review.   
-– CSV File Data: requires more iterations and cross-checking against Ground Truth.   
-– Aug-Dec Plan: Focus on KG/VIS/LLM2Vis. Prepare processes for integration between January and April 2027.   
-– Ethics application submitted (correction on August 4th): response expected in 10 days.   
-
-</br>  
-**B– UPDATES**.  
-<img src="img/v_vikus_01.png" alt="vikus project installed">   
-– Vikus Viewer: local basic implementation, first step (Tomas providing hands-on help).   
-<img src="img/a_bbdd_ground_truth.png" alt="initial ground truth">   
-– Initial Ground Truth: people, institutions, etc.; to be expanded.   
-– Workshop / Surveys: proposals in progress.   
-– Transkribus grants (1000 credits).   
-– Accepted 100ySB Conference (Sept 17th-19th, Manchester):   
-... Presentation: Visualisation Process.   
-... Possible article in SB book (2027). meeting with Ben Wood, 27 August.   
-... Possible workshop with experts (to be discussed).   
-– Accepted Hypertext (Sept, 12, 16, London):   
-... SummerSchool Poster accepted, Travel Grant, Meetings every 2 weeks.   
-... KG workshop: Preparing short paper proposal (preparing data for KG).   
+**A– TASKS**  
+– Introduction (sent Monday the 3rd): I will integrate the texts following this review.  
+– CSV File Data: requires more iterations and cross-checking against Ground Truth.  
+– Aug-Dec Plan: Focus on KG/VIS/LLM2Vis. Prepare processes for integration between January and April 2027.  
+– Ethics application submitted (correction on August 4th): response expected in 10 days.  
 
 </br>  
-**C– QUESTIONS/DISCUSSION**. 
-<img src="img/d_possible_papers_journals.png" alt="paper-journals">  
+**B– UPDATES**  
+<img src="img/v_vikus_01.png" alt="vikus project installed" width="70%" height="70%">  
+– Vikus Viewer: local basic implementation, first step (Tomas providing hands-on help).  
+<img src="img/a_bbdd_ground_truth.png" alt="initial ground truth" width="70%" height="70%">  
+– Initial Ground Truth: people, institutions, etc.; to be expanded.  
+– Workshop / Surveys: proposals in progress.  
+– Transkribus grants (1000 credits).  
+– Accepted 100ySB Conference (Sept 17th-19th, Manchester):  
+... Presentation: Visualisation Process.  
+... Possible article in SB book (2027). meeting with Ben Wood, 27 August.  
+... Possible workshop with experts (to be discussed).  
+– Accepted Hypertext (Sept, 12, 16, London):  
+... SummerSchool Poster accepted, Travel Grant, Meetings every 2 weeks.  
+... KG workshop: Preparing short paper proposal (preparing data for KG).  
+
+</br>  
+**C– QUESTIONS/DISCUSSION**  
+<img src="img/d_possible_papers_journals.png" alt="paper-journals" width="70%" height="70%">  
 – Possible article in August-September (questions made to Barbara McGillivray) for the [Journal of Open Humanities Data](https://openhumanitiesdata.metajnl.com/) (paid, Funding?).  
-– Review previous text: what needs improvement? I need some advice on this.   
+– Review previous text: what needs improvement? I need some advice on this.  
 – Discuss workshop + interviews to gather more user information (Uta, John).  
-– Possible articles: Diagram.   
-– Focus of the project: Digital Humanities or Visualisation for Digital Humanities?      
-– KG hypertext: preparing KG for visualisation?   
-– Project Three lines of work: Implementation - Thesis - Autoethnography.   
+– Possible articles: Diagram.  
+– Focus of the project: Digital Humanities or Visualisation for Digital Humanities?  
+– KG hypertext: preparing KG for visualisation?  
+– Project Three lines of work: Implementation - Thesis - Autoethnography.  
 
 </br>  
-**D– TO COMMENT**.  
-– Dr.'s document: A is better, but A needs continuous observation to change the m. PLeas enote: ihaven come to Infiormatics, 3 weeks at home wit my family.   
-– Meeting with PUC, Chile (Friday 7): good reception, they knew my situation in Chile. It is possible to have a 6-month extension for thesis writing (a new course in many cases). Is extension an issue for UofEd?    
-– 1st Semester 2027: complete integration and thesis work (Chile).   
-– Presupuestary restrictions in Chile, I will need to find new resources.   
+**D– TO COMMENT**  
+– Dr.'s document: A is better, but A needs continuous observation to change the m. PLeas enote: ihaven come to Infiormatics, 3 weeks at home wit my family.  
+– Meeting with PUC, Chile (Friday 7): good reception, they knew my situation in Chile. It is possible to have a 6-month extension for thesis writing (a new course in many cases). Is extension an issue for UofEd?  
+– 1st Semester 2027: complete integration and thesis work (Chile).  
+– Presupuestary restrictions in Chile, I will need to find new resources.  
 
 </br>  
-**E– NEXT STEPS**.  
-– Resume literature review: strengthen DH, KG4Vis, LLM4Vis, Chat4Viz, HD data sections.   
-– KG: implement entities and relationships, etc.   
-– RAG local data (Qwen, Claude, etc.?).   
-– LJMU visit (September/October): archive status, research interests, researcher expertise.   
-– Workshop & Interview in progress (UofEd authorisation process).   
-– VisHub presentation and SBA workshop.   
-– Begin prototype implementation.   
-– Refactor code: make it organised and clearer (structure, comments, variables, generalisation).   
-– Integrate and revise submitted thesis texts into a single document.   
-– Table of contents and topic structure to be defined.   
+**E– NEXT STEPS**  
+– Resume literature review: strengthen DH, KG4Vis, LLM4Vis, Chat4Viz, HD data sections.  
+– KG: implement entities and relationships, etc.  
+– RAG local data (Qwen, Claude, etc.?).  
+– LJMU visit (September/October): archive status, research interests, researcher expertise.  
+– Workshop & Interview in progress (UofEd authorisation process).  
+– VisHub presentation and SBA workshop.  
+– Begin prototype implementation.  
+– Refactor code: make it organised and clearer (structure, comments, variables, generalisation).  
+– Integrate and revise submitted thesis texts into a single document.  
+– Table of contents and topic structure to be defined.  
 – Photographs: descriptive texts using LLMs (Gemini, GPT-4o Mini; will test Qwen 3.5 via ELM).  
-– Auto-ethnography integrating process writing notes, diagrams and prototyping visualisations.    
-– Incororate tags, labels, and other (from ground truthand others). 
+– Auto-ethnography integrating process writing notes, diagrams and prototyping visualisations.  
+– Incororate tags, labels, and other (from ground truthand others).  
 
 </br>  
-**F– REFERENCES**.  
-About Vikus project: [github.com/cpietsch/vikus-viewer](https://github.com/cpietsch/vikus-viewer)    
+**F– REFERENCES**  
+About Vikus project: [github.com/cpietsch/vikus-viewer](https://github.com/cpietsch/vikus-viewer)  
 
 
 </br>  
@@ -91,75 +91,75 @@ which idea is better?
 
 </br>  
 **John – July 8, 2026, 16:00 – in-person**.  
-John's office – IF 4.32.   
-+Comments on the summer schools: Comp Interact, Nime, DHRSE.   
-+Regarding the last meeting (planning, data, etc.): show notes and tasks, see if ok.   
-+Thesis progress: classification, resize, visualisations (exploratory).  
-+Prototyping visualisations: explorer.   
-+Index: Initial thesis table of contents: to prepare introduction.   
-+Research Questions:   
-+Abstract.   
-+Plan: how much detail? goal...   
+John's office – IF 4.32.  
++Comments on the summer schools: Comp Interact, Nime, DHRSE.  
++Regarding the last meeting (planning, data, etc.): show notes and tasks, see if ok.  
++Thesis progress: classification, resize, visualisations (exploratory).  
++Prototyping visualisations: explorer.  
++Index: Initial thesis table of contents: to prepare introduction.  
++Research Questions:  
++Abstract.  
++Plan: how much detail? goal...  
 
-–Research: survey/workshop in preparation, thinking goal/dates (ethics authorisation).   
-–Report Github: reports, texts, index, plan, etc. (improve + GDrive).  
+–Research: survey/workshop in preparation, thinking goal/dates (ethics authorisation).  
+–Report Github: reports, texts, index, plan, etc. (improve + GDrive).  
 
-Questions:   
-–Extending the time for the thesis in Chile. Do I need to do so here, too?   
-–Ask for a medical document about Alicia (impact on my time and mood).  
-–Next meeting next week...? (planning for the August meeting).   
-–100 Years of Stafford Beer, Manchester. 17th–19th September: present some progress.   
+Questions:  
+–Extending the time for the thesis in Chile. Do I need to do so here, too?  
+–Ask for a medical document about Alicia (impact on my time and mood).  
+–Next meeting next week...? (planning for the August meeting).  
+–100 Years of Stafford Beer, Manchester. 17th–19th September: present some progress.  
 
-Meeting Notes:  
-–Working on the main question based on the previous, but focused on DH & Vis challenges.   
-–Secondary questions related to each challenge: KG creation, Chat responses, Vis creation.   
-–Develop prototypes to test each challenge.   
+Meeting Notes:  
+–Working on the main question based on the previous, but focused on DH & Vis challenges.  
+–Secondary questions related to each challenge: KG creation, Chat responses, Vis creation.  
+–Develop prototypes to test each challenge.  
 
 
 </br>  
-**John & Melissa – June 24, 2026, 16:00 – online.**   
-–Comments to the previous text.   
-–Two texts reviewed:   
-RV_a_About_SBArchive_24jun_2026.pdf.  
-RV_a_About_SBeer_and_Cybersyn_24jun_2026.pdf.  
-–Defining next texts: Proposing an introduction, which will help me articulate the project.   
-–Steps, July: extracting information, start KG prototype.   
-–Intro to initial paper?
-–Define focus and questions.
-–Others.
+**John & Melissa – June 24, 2026, 16:00 – online**  
+–Comments to the previous text.  
+–Two texts reviewed:  
+RV_a_About_SBArchive_24jun_2026.pdf. 
+RV_a_About_SBeer_and_Cybersyn_24jun_2026.pdf. 
+–Defining next texts: Proposing an introduction, which will help me articulate the project.  
+–Steps, July: extracting information, start KG prototype.  
+–Intro to initial paper?  
+–Define focus and questions. 
+–Others. 
 
-NEXT MEETING:   
-–Discuss workshop + interviews with UTA to get more info on users.   
-–I will apply for:   
-INTR/HT Summer School, 12–13 Sept (London, selected!).   
-100 Years of Stafford Beer. 17–19 Sept (Manchester).   
-Transkribus Scholarships: [https://www.transkribus.org/scholarship](https://www.transkribus.org/scholarship) (done!)  
+NEXT MEETING:  
+–Discuss workshop + interviews with UTA to get more info on users.  
+–I will apply for:  
+INTR/HT Summer School, 12–13 Sept (London, selected!).  
+100 Years of Stafford Beer. 17–19 Sept (Manchester).  
+Transkribus Scholarships: [https://www.transkribus.org/scholarship](https://www.transkribus.org/scholarship) (done!). 
 
-Meeting Notes: 
-–Research on "case study". Writing about the relevance of this case study. See other ones.   
-–Info extraction on archival material, value of information extraction. Methods of case study: why is it appropriate?   
-–Problem, methods, and gaps in machine processing text.   
-–Write like a research paper more than a report, create arguments.   
-–Key question: visualisation of cultural archive. Certain types of material.   
-–Develop a high-level question, grounded in more specific issues.   
-–How might LLMs and GenAI be incorporated into a vis workflow-pipeline for cultural archives? Sub-questions of the two parts or challenges.   
-–Thinking about who it is for will help to think about the question. Why am I doing this? Make a choice based on interest in visualisation.   
-–For workshop & surveys, consider ethics approval by Informatics, which takes little time (3 weeks).   
-–Reports of the events related to the project?   
-–Research workshop and interviews. Why is it important for research questions?   
-–Methodology not yet, first approach to the research.   
-–Working on the document structure with John.   
-–Check the thesis from Edinburgh from Design Informatics (research explorer) to see the structure.   
-–Review Provenance Visualisation with the idea of a case study (check Tomas's Thesis). Rethinking historical university records: provenance in visualisation and digital humanities research.   
+Meeting Notes:  
+–Research on "case study". Writing about the relevance of this case study. See other ones.  
+–Info extraction on archival material, value of information extraction. Methods of case study: why is it appropriate?  
+–Problem, methods, and gaps in machine processing text.  
+–Write like a research paper more than a report, create arguments.  
+–Key question: visualisation of cultural archive. Certain types of material.  
+–Develop a high-level question, grounded in more specific issues.  
+–How might LLMs and GenAI be incorporated into a vis workflow-pipeline for cultural archives? Sub-questions of the two parts or challenges.  
+–Thinking about who it is for will help to think about the question. Why am I doing this? Make a choice based on interest in visualisation.  
+–For workshop & surveys, consider ethics approval by Informatics, which takes little time (3 weeks).  
+–Reports of the events related to the project?  
+–Research workshop and interviews. Why is it important for research questions?  
+–Methodology not yet, first approach to the research.  
+–Working on the document structure with John.  
+–Check the thesis from Edinburgh from Design Informatics (research explorer) to see the structure.  
+–Review Provenance Visualisation with the idea of a case study (check Tomas's Thesis). Rethinking historical university records: provenance in visualisation and digital humanities research.  
 [https://research-repository.st-andrews.ac.uk/handle/10023/29239](https://research-repository.st-andrews.ac.uk/handle/10023/29239).  
 
-In August:   
-–All the documents transcribed, all data clear.   
-–A plan to work: 6 months to do all the things.   
-–See ethics (first see dates for the activities).   
-–Next meeting August 10.   
-–Meeting with John before August 16 (he is leaving).   
-–Next text in Word (no PDF). Implement Google Docs to share documents. 1 document with all the texts.   
+In August:  
+–All the documents transcribed, all data clear.  
+–A plan to work: 6 months to do all the things.   
+–See ethics (first see dates for the activities).  
+–Next meeting August 10.  
+–Meeting with John before August 16 (he is leaving).  
+–Next text in Word (no PDF). Implement Google Docs to share documents. 1 document with all the texts.  
 
 
 
