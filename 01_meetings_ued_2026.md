@@ -71,15 +71,15 @@ to be confirmed.
 
 **E– NEXT STEPS**
 
-– Resume literature review: strengthen DH, KG4Vis, LLM4Vis, Chat4Viz.
+- Resume literature review: strengthen DH, KG4Vis, LLM4Vis, Chat4Viz.
 - KG: implement entities and relationships, etc.
 - RAG local data (Qwen, Claude, etc.?).
-- LJMU SBArchive visit (Liverpol, September/October): questions around archive status, research interests, etc.
+- LJMU SBArchive visit (Liverpool, September/October): questions around archive status, research interests, etc.
 - Workshop & Interview in progress (UofEd authorisation process).
 - VisHub presentation and SBA workshop.
 - Begin prototype implementation.
 - Refactor code: make it organised and clearer (structure, comments, variables, generalisation).
-- Integrate and revise submited thesis texts into a single document.
+- Integrate and revise submitted thesis texts into a single document.
 - Table of contents and topic structure to be defined.
 - Photographs: descriptive texts using LLMs (Gemini, GPT-4o Mini; will test Qwen 2.5-VL / Qwen 3.5 via ELM).
 - Auto-ethnography integrating process writing notes, diagrams and prototyping visualisations.
@@ -94,7 +94,7 @@ to be confirmed.
 
 </br>  
 </br>  
-  
+</br>  
 ## PAST.   
 
   
