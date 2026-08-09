@@ -22,8 +22,11 @@ to be confirmed.
 </br>  
 **B– UPDATES**  
 <img src="img/v_vikus_01.png" alt="vikus project installed" width="70%" height="70%">  
+
 – Vikus Viewer: local basic implementation, first step (Tomas providing hands-on help).  
+
 <img src="img/a_bbdd_ground_truth.png" alt="initial ground truth" width="70%" height="70%">  
+
 – Initial Ground Truth: people, institutions, etc.; to be expanded.  
 – Workshop / Surveys: proposals in progress.  
 – Transkribus grants (1000 credits).  
