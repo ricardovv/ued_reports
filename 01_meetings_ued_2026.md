@@ -19,7 +19,7 @@ to be confirmed.
 **A– TASKS**  
 
 – Introduction (sent Monday the 3rd): I will integrate the texts following this review.  
-– CSV File Data: requires more iterations and cross-checking against Ground Truth.  
+– CSV File Data w all integrated: requires iterations and cross-checking against Ground Truth.  
 – Aug-Dec Plan: Focus on KG/VIS/LLM2Vis. Prepare processes for integration between January and April 2027.  
 – Ethics application submitted (correction on August 4th): response expected in 10 days.  
 
@@ -51,19 +51,19 @@ to be confirmed.
 <img src="img/d_possible_papers_journals.png" alt="paper-journals" width="70%" height="70%">  
 
 – Possible article in August-September (questions made to Barbara McGillivray) for the [Journal of Open Humanities Data](https://openhumanitiesdata.metajnl.com/) (paid, Funding?).  
-– Review previous text: what needs improvement? I need some advice on this.  
+– Review previous text: what needs improvement? I need advice on this.  
 – Discuss workshop + interviews to gather more user information (Uta, John).  
-– Possible articles: Diagram.  
+– Possible articles/journals: Diagram.  
 – Focus of the project: Digital Humanities or Visualisation for Digital Humanities?  
 – KG hypertext: preparing KG for visualisation?  
-– Project Three lines o
+– Project Three lines: Implementation / Thesis / Autoetnography.  
 
 **D– TO COMMENT**
 
-- Dr.'s document: A is better, but A needs continuous observation to change the m. Please note: I haven't come to Informatics, 3 weeks at home with my family.
-- Meeting with PUC, Chile (Friday 7): good reception, they knew my situation in Chile. It is possible to have a 6-month extension for thesis writing (a new course in many cases). Is extension an issue for UofEd?
-- 1st Semester 2027: complete integration and thesis work (Chile).
-- Budgetary restrictions in Chile, I will need to find new resources.
+– Dr.'s document: A is better, but A needs continuous observation to change the m. Please note: I haven't come to Informatics, 3 weeks at home with my family.  
+– Meeting with PUC, Chile (Friday 7): good reception, they knew my situation in Chile. It is possible to have a 6-month extension for thesis writing (a new course in many cases). This extension is an issue for UoE?  
+– 1st Semester 2027: complete integration and thesis work (Chile).  
+– Budgetary restrictions in Chile, I will need to find new resources.  
 
 <br>
 
@@ -72,12 +72,12 @@ to be confirmed.
 - Resume literature review: strengthen DH, KG4Vis, LLM4Vis, Chat4Viz, HD data sections.
 - KG: implement entities and relationships, etc.
 - RAG local data (Qwen, Claude, etc.?).
-- LJMU visit (September/October): archive status, research interests, researcher expertise.
+- LJMU SBArchive visit (Liverpol, September/October): questions around archive status, research interests, etc.
 - Workshop & Interview in progress (UofEd authorisation process).
 - VisHub presentation and SBA workshop.
 - Begin prototype implementation.
 - Refactor code: make it organised and clearer (structure, comments, variables, generalisation).
-- Integrate and revise submitted thesis texts into a single document.
+- Integrate and revise submited thesis texts into a single document.
 - Table of contents and topic structure to be defined.
 - Photographs: descriptive texts using LLMs (Gemini, GPT-4o Mini; will test Qwen 2.5-VL / Qwen 3.5 via ELM).
 - Auto-ethnography integrating process writing notes, diagrams and prototyping visualisations.
