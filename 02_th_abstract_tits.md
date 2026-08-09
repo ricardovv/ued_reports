@@ -8,7 +8,9 @@ From Document to Meaningful Exploration: Prototyping a Framework with Multimodal
 –Cybersyn Boxes: Prototyping Data Visualization to explore AI challenges and opportunities from a Interdisciplinary Perspective (DH?). (12 jun).  
 –Cybersyn Boxes: Prototyping a Document Visualisation assisted by AI & KG. (10 jul).  
 
+writing an academic article: A step by step guide for beginers.
 
+F. Ecarnot
 **QUESTIONS (iter 1 - 12july)**
 QO (Overall):   
 Q0A– How can humanistic and design principles be combined to build tools that genuinely fit humanities research?    

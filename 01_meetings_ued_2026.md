@@ -1,7 +1,81 @@
-**Uta - july ? 2026, xx:00 - xxxxxx**.  
+# Meeting Notes.  
+
+## FUTURE.   
+
+**John - August ? 2026, xx:xx - xxxxxx**.   
 to be confirmed.  
 
+**Uta - August ? 2026, xx:xx - xxxxxx**.   
+to be confirmed.  
 
+</br>  
+## CURRENT.   
+**Melissa & John – August 10, 2026, 12:00 – in-person**.   
+<img src="img/d_tesis_temas_venn.png" alt="thesis themes">
+
+**A– TASKS**.  
+– Introduction (sent Monday the 3rd): I will integrate the texts following this review.   
+– CSV File Data: requires more iterations and cross-checking against Ground Truth.   
+– Aug-Dec Plan: Focus on KG/VIS/LLM2Vis. Prepare processes for integration between January and April 2027.   
+– Ethics application submitted (correction on August 4th): response expected in 10 days.   
+
+</br>  
+**B– UPDATES**.  
+<img src="img/v_vikus_01.png" alt="vikus project installed">   
+– Vikus Viewer: local basic implementation, first step (Tomas providing hands-on help).   
+<img src="img/a_bbdd_ground_truth.png" alt="initial ground truth">   
+– Initial Ground Truth: people, institutions, etc.; to be expanded.   
+– Workshop / Surveys: proposals in progress.   
+– Transkribus grants (1000 credits).   
+– Accepted 100ySB Conference (Sept 17th-19th, Manchester):   
+... Presentation: Visualisation Process.   
+... Possible article in SB book (2027). meeting with Ben Wood, 27 August.   
+... Possible workshop with experts (to be discussed).   
+– Accepted Hypertext (Sept, 12, 16, London):   
+... SummerSchool Poster accepted, Travel Grant, Meetings every 2 weeks.   
+... KG workshop: Preparing short paper proposal (preparing data for KG).   
+
+</br>  
+**C– QUESTIONS/DISCUSSION**. 
+<img src="img/d_possible_papers_journals.png" alt="paper-journals">  
+– Possible article in August-September (questions made to Barbara McGillivray) for the [Journal of Open Humanities Data](https://openhumanitiesdata.metajnl.com/) (paid, Funding?).  
+– Review previous text: what needs improvement? I need some advice on this.   
+– Discuss workshop + interviews to gather more user information (Uta, John).  
+– Possible articles: Diagram.   
+– Focus of the project: Digital Humanities or Visualisation for Digital Humanities?      
+– KG hypertext: preparing KG for visualisation?   
+– Project Three lines of work: Implementation - Thesis - Autoethnography.   
+
+</br>  
+**D– TO COMMENT**.  
+– Dr.'s document: A is better, but A needs continuous observation to change the m. PLeas enote: ihaven come to Infiormatics, 3 weeks at home wit my family.   
+– Meeting with PUC, Chile (Friday 7): good reception, they knew my situation in Chile. It is possible to have a 6-month extension for thesis writing (a new course in many cases). Is extension an issue for UofEd?    
+– 1st Semester 2027: complete integration and thesis work (Chile).   
+– Presupuestary restrictions in Chile, I will need to find new resources.   
+
+</br>  
+**E– NEXT STEPS**.  
+– Resume literature review: strengthen DH, KG4Vis, LLM4Vis, Chat4Viz, HD data sections.   
+– KG: implement entities and relationships, etc.   
+– RAG local data (Qwen, Claude, etc.?).   
+– LJMU visit (September/October): archive status, research interests, researcher expertise.   
+– Workshop & Interview in progress (UofEd authorisation process).   
+– VisHub presentation and SBA workshop.   
+– Begin prototype implementation.   
+– Refactor code: make it organised and clearer (structure, comments, variables, generalisation).   
+– Integrate and revise submitted thesis texts into a single document.   
+– Table of contents and topic structure to be defined.   
+– Photographs: descriptive texts using LLMs (Gemini, GPT-4o Mini; will test Qwen 3.5 via ELM).  
+– Auto-ethnography integrating process writing notes, diagrams and prototyping visualisations.    
+– Incororate tags, labels, and other (from ground truthand others). 
+
+</br>  
+**F– REFERENCES**.  
+About Vikus project: [github.com/cpietsch/vikus-viewer](https://github.com/cpietsch/vikus-viewer)    
+
+
+</br>  
+## PAST.   
 </br>  
 **John – July 16, 2026, 15:00-15:30 (to be confirmed) – in-person**.   
 John's office – IF 4.32.  
