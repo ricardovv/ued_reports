@@ -91,10 +91,71 @@ to be confirmed.
 
 - About Vikus project: [github.com/cpietsch/vikus-viewer](https://github.com/cpietsch/vikus-viewer)
 
+<br>
+<br>
+<br>
+**G– MEETING NOTES**
 
-</br>  
-</br>  
-</br>  
+<br>
+
+- The student discussed their personal situation, the meeting with the university in Chile, and the extension for an additional semester (Semester 1, 2027). The professors indicated there would be no major issue from the University of Edinburgh's side.
+
+Review of the student's previous action items (data extraction, ethics, introduction text, etc.):
+- Data extraction from files in Transkribus (XML/TXT): OK. 
+- Review of Professor Terras's comments on the "Introduction" document. 
+- Discussion on ethics: professors requested the documents submitted to the ethics committee (awaiting response). 
+- Discussion on the auto-ethnography method; it might be more appropriate to use a different method (e.g., design research). Professors suggested "Qualitative Research..." by Gorman & Clayton. 
+- Professors emphasised the need to avoid taking things for granted in the text, suggesting instead a conditional approach (using "if" scenarios).
+- The research covers multiple areas (KG, GenAI, LLM/Chat4Vis). 
+- It was suggested that focusing on a more specific topic (KG/Chat4Viz) would be better.
+- Discussion regarding the limited size of the dataset; this could be a constraint, but also an opportunity to explore and highlight. 
+- Other matters.
+
+Action items for the September 7th meeting:
+- Send ethics-related documents (form, workshop plan, etc.).
+- University assistance to formalise the situation (meeting scheduled).
+- Draft texts on the topics (Knowledge Graphs, LLM/Chat4Viz) to evaluate which one to pursue.
+
+<br>
+
+**Next meeting: Mon Sept. 7, 14:00.**
+
+
+<br>
+<br>
+<br>
+<br>
+
+**MEETING NOTES - MON 12:00**
+<br>
+– The student discussed their personal situation, the meeting with the university in Chile, and the extension for an additional semester (Semester 1, 2027). The professors indicated there would be no major issue from the University of Edinburgh's side.
+– Review of the student's previous action items (data extraction, ethics, introduction text, etc.):
+– Data extraction from files in Transkribus (XML/TXT): OK. 
+– Review of Professor Terras's comments on the "Introduction" document. 
+– Discussion on ethics: professors requested the documents submitted to the ethics committee (awaiting response). 
+– Discussion on the auto-ethnography method; it might be more appropriate to use a different method (e.g., design research). Professors suggested "Qualitative Research..." by Gorman & Clayton. 
+– Professors emphasised the need to avoid taking things for granted in the text, suggesting instead a conditional approach (using "if" scenarios).
+– The research covers multiple areas (KG, GenAI, LLM/Chat4Vis). 
+– It was suggested that focusing on a more specific topic (KG/Chat4Viz) would be better.
+– Discussion regarding the limited size of the dataset; this could be a constraint, but also an opportunity to explore and highlight. 
+– Other matters.
+
+<br>
+
+Action items for the September 7th meeting:
+– Send ethics-related documents (form, workshop plan, etc.).
+– University assistance to formalise the situation (meeting scheduled).
+– Draft texts on the topics (Knowledge Graphs, LLM/Chat4Vis) to evaluate which one to pursue.
+
+**Next meeting: Mon Sept. 7, 14:00.**
+
+   
+
+
+
+<br>
+<br>
+<br>
 ## PAST.   
 
   
